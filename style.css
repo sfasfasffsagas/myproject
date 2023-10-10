@@ -1,6 +1,8 @@
 h1 {
-    color: red;
+    color: black;
+    width: 1000px ;
+    height: 1000px ;
 }
 body {
-    background-color: aqua;
+    background-color: salmon;
 }
